@@ -1,6 +1,6 @@
 # 👋 Hola, soy Jorge barba (barba-rasta)
 
-![Visitas](https://visitor-badge.glitch.me/badge?page_id=barba-rasta.barba-rasta)
+[![Profile views](https://komarev.com/ghpvc/?username=barba-rasta&color=blue)](https://github.com/barba-rasta)
 
 Breve descripción: Developer — CIO
 
@@ -36,4 +36,4 @@ Si quieres apoyarme, puedes hacerlo aquí:
 
 ---
 
-README creado automáticamente por GitHub Copilot Chat Assistant.
+README actualizado automáticamente por GitHub Copilot Chat Assistant.
