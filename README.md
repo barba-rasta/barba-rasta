@@ -1,6 +1,6 @@
 # 👋 Hola, soy Jorge barba (barba-rasta)
 
-[![Profile views](https://komarev.com/ghpvc/?username=barba-rasta&color=blue)](https://github.com/barba-rasta)
+[![Vistas de perfil](https://komarev.com/ghpvc/?username=barba-rasta&color=blue)](https://github.com/barba-rasta)
 
 Breve descripción: Developer — CIO
 
